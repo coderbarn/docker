@@ -11,4 +11,6 @@
 - docker run --publish 9880:80 python-docker
 - docker run --publish 9880:80 --name mydockertest -d python-docker
 - docker ps
+- docker ps -a // Lists all containers
 - docker rmi 783234ab3
+- docker container prune // removes all stopped containers
