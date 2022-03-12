@@ -15,5 +15,6 @@ Space is only freed when images are deleted. Space is not freed automatically wh
  > docker run --privileged --pid=host docker/desktop-reclaim-space
 </font>
 
-[sampleDocker](sampleDocker/README.md)
+
+[sampleDocker](sampleDocker/README.md)<br>
 [sampleDockerCompose](sampleDockerCompose/README.md)
