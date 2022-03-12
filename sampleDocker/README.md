@@ -1,5 +1,7 @@
 # docker
 
+[CLI Help](https://docs.docker.com/engine/reference/commandline/cli/)
+
 1. to build: docker build --tag python-docker .
 2. to ssh into container
 3. docker exec -it <name of the conatiner> /bin/bash
